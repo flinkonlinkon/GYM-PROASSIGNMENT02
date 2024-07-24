@@ -1,0 +1,878 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Inter", sans-serif;
+    background-color: black;
+
+}
+
+.card1{
+    margin-top: 50px;
+    height: 715px;
+    width: 1440px;
+    background-color: #232323;
+    margin: auto;
+
+
+}
+#fi{
+    width: 132px;
+    height: 44px;
+    position: relative;
+    top: 41px;
+    left: 126px;
+    color: #E6533C;
+}
+
+
+
+.Home {
+    width: 92px;
+    height: 37px;
+    background-color: #E6533C;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -6px;
+    /* padding: 10px; */
+    border-radius: 42px;
+    line-height: 37px; 
+    white-space: nowrap;
+}
+
+
+
+
+
+
+.janina{
+    width: 465px;
+    position: relative;
+    left: 866px;
+}
+.navfather nav .janina ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly; 
+    padding: 0; 
+    color: rgba(255, 255, 255, 0.50);
+}
+
+
+.navfather nav .janina ul li {
+    
+    width: 100px;
+    text-align: center; 
+    color: rgba(255, 255, 255, 0.50);
+}
+
+   
+
+.ma{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.title{
+    width: 600px;
+    height: 439px;
+    position: relative;
+    top: 75px;
+    left: 119px;
+}
+
+.title h1{
+    color: white;
+    font-size: 3.5rem;
+    margin-bottom: 5px;
+}
+.shape{
+    font-family: "Dancing Script", cursive;
+    font-size: 5rem;
+}
+
+.title p{
+    color: rgba(255, 255, 255, 0.50);
+}
+
+.btn{
+    width: 224px;
+    height: 54px;
+    color: white;
+    background-color: #E6533C;
+    border-radius: 42px;
+    border: none;
+}
+.btn1{
+    width: 224px;
+    height: 54px;
+    color: white;
+    background-color: #232323;
+    border-radius: 42px;
+    border: 1px solid white;
+}
+.bu{
+    position: relative;
+    top: -371px;
+    left: 127px;
+}
+.bluer{
+    width: 193px;
+    height: 98px;
+    background-color: rgba(255, 255, 255, 0.10);
+    border-radius: 12px;
+    
+}
+#free{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    top: -467px;
+    left: 268px;
+    color: white;
+    text-align: center;
+    /* margin-top: 5px; */
+    padding-top: 5px;
+}
+
+.pic{
+    position: relative;
+    left: -265px;
+}
+#vid{
+    position: relative;
+    top: -266px;
+    left: -120px;
+    text-align: center;
+    color: white;
+
+}
+
+.cir{
+    width: 50px;
+    height: 50px;
+    background-color: #E6533C;
+    border-radius: 50%;
+    position: relative;
+    z-index: 10;
+}
+ 
+
+.card2{
+    height: 452px;
+    width: 1044px;
+    margin: auto;
+    margin-top: 50px;
+    /* background-color: #E6533C; */
+   
+}
+
+.card2 h1{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 2.5rem;
+}
+
+.card2 p{
+    width: 671px;
+    height: 48px;
+    color: rgba(255, 255, 255, 0.50);
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    left: 189px;
+
+}
+.pics{
+    width: 1044px;
+    height: 274px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.gym{
+    width: 231px;
+    height: 274px;
+    text-align: center;
+    /* border: 2px solid gainsboro; */
+
+
+}
+.gym p{
+    width: 231px;
+    height: 36px;
+    color: rgba(255, 255, 255, 0.50);
+    position: relative;
+    left: 0px;
+}
+.gympic img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    
+}
+.gym h3{
+    color: white;
+}
+.card3{
+    width: 1060px;
+    height: 371px;
+    margin: auto;
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.run{
+    width:"366px";
+    height:"312px";
+   position: relative;
+   right: 52px;
+   top: 41px;
+    
+    /* /* background-image: url(B10A2-versatile-ui/images/run.jpg); \* */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* z-index: 10; ?}  */
+
+}
+.tax{
+    width: 443px;
+    height: 289px;
+    position: relative;
+    left: 51px;
+    top: 52px;
+}
+.tax h1{
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.tax p{
+    color: rgba(255, 255, 255, 0.50);
+    margin-bottom: 50px;
+}
+.card4{
+    width: 1060px;
+    height: 581px;
+    /* border: 2px solid white; */
+    margin: auto;
+    margin-top: 50px;
+}
+.tax1{
+    width: 671px;
+    height: 120px;
+}
+.tax1 h1{
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.tax1 p{
+    color: rgba(255, 255, 255, 0.50);
+}
+.picco{
+    position: relative;
+    left: 0px;
+    top: 40px;
+    width: 1060px;
+    height: 403px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.card5{
+    text-align: center;
+    width: 671px;
+    height: 119px;
+    margin: auto;
+    margin-top: 50px;
+}
+.Bmit h1{
+ color: white;
+ font-size: 2rem;
+}
+.Bmit p{
+    color: rgba(255, 255, 255, 0.50);
+}
+.card6{
+    width: 1440px;
+    height: 487px;
+    background-color: #222222;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.Chart{
+    position: relative;
+    top: 55px;
+    left: 40px;
+}
+.Chart h1{
+    color: white;
+    margin-bottom: 10px;
+}
+.it{
+    width: 155px;
+    height: 48px;
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    text-align: center;
+    color: rgba(255, 255, 255, 0.50);
+    padding-top: 10px;
+}
+
+.it h4{
+    color: white;
+}
+.itall{
+
+    width: 350px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.for{
+    margin-top: 10px;
+    width: 283px;
+    height: 48px;
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    color: #232323;
+    background-color: #393939;
+    text-align: center;
+    border-radius: 8px;
+    /* margin: 1px; */
+
+}
+.Calculate{
+    width: 577px;
+    height: 386px;
+    position: relative;
+    right: 85px;
+    top: 66px;
+}
+.for1{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 577px;
+    height: 48px;
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    color: #232323;
+    background-color: #393939;
+    text-align: center;
+    border-radius: 8px;
+
+}
+.Calculate h1{
+    color: white;
+    margin-bottom: 10px;
+}
+.Calculate p{
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.50);
+}
+.Calculate input{
+    color: rgba(255, 255, 255, 0.50);
+}
+.Team{
+    padding-top: 20px;
+   padding-left: 43px;
+    width: 1060px;
+    height: 604px;
+    background-color: #1A1A1A;
+   display: flex;
+   flex-wrap: wrap;
+
+   gap: 20px;
+}
+.card7{
+    text-align: center;
+    margin: auto;
+    width: 1060px;
+    height: 781px;
+}
+.bal{
+    width: 672px;
+    height: 119px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 148px;
+    margin-top: 50px;
+}
+.bal h1{
+    color: white;
+    margin-bottom: 10px;
+}
+.bal p{
+    color: rgba(255, 255, 255, 0.50);
+}
+.member{
+    width: 326px;
+    height: 272px;
+    border-radius: 18px;
+    /* border: 2px solid yellow; */
+}
+
+.nan{
+    position: relative;
+    left: -63px;
+    top: 199px;
+    color: white;
+
+}
+
+.nan1{
+    margin-top: 5px;
+    color: rgba(255, 255, 255, 0.50); 
+    position: relative;
+    top: 207px;
+    left: -74px;
+}
+#Jerome{
+    background-image: url(B10A2-versatile-ui/images/trainer1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#Cameron{
+    background-image: url(B10A2-versatile-ui/images/trainer2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#Darrell{
+    background-image: url(B10A2-versatile-ui/images/trainer3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#Dianne{
+    background-image: url(B10A2-versatile-ui/images/trainer4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#Cody{
+    background-image: url(B10A2-versatile-ui/images/trainer5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#Theresa{
+    background-image: url(B10A2-versatile-ui/images/trainer6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.my{
+    text-align: center;
+
+    width: 1440px;
+    height: 555px;
+    background-color: #222222;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.priceall{
+    width: 1300px;
+    height: 400px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 133px;
+    left: -69px;
+}
+.my h1{
+    color: white;
+    position: relative;
+    left: 616px;
+    font-size: 3rem;
+}
+.price{
+    width: 230px;
+    height: 370px;
+    /* border: 2px solid white; */
+    background-color: #393939;
+    border-radius: 32px;
+    
+    
+}
+.my span{
+    color: #E6533C;
+}
+.price h2{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #E6533C;
+}
+#ELITE{
+    font-size: 4rem;
+    font-family: "Dancing Script";
+}
+
+
+
+
+
+
+
+
+.card8{
+    width: 1440px;
+    height: 489px;
+    background-color: #1A1A1A;
+    margin: auto;
+    margin-top: 50px;
+}
+.foot1{
+    width: 443px;
+    height: 176px;
+    position: relative;
+
+}
+.foot2{
+    width: 181px;
+    height: 246px;
+}
+.foot3{
+    width: 181px;
+    height: 246px;
+}
+.foot{
+    width: 1059px;
+    height: 246px;
+    display: flex;
+    /* padding: 50px; */
+    justify-content: space-evenly;
+    position: relative;
+    left: 178px;
+    top: 102px;
+    
+}
+li{
+    list-style: none;
+    color: rgba(255, 255, 255, 0.50);
+}
+
+.foot1 h1{
+    font-size: 3.5rem;
+    color: #E6533C;
+    font-style: italic;
+}
+
+.foot2 h1{
+    color: white;
+    margin-bottom: 20px;
+}
+.foot3 h1{
+    color: white;
+    margin-bottom: 20px;
+}
+p{
+    color: rgba(255, 255, 255, 0.50);
+}
+footer{
+    text-align: center;
+    width: 888px;
+    height: 84px;
+    border-top: 1px solid rgba(255, 255, 255, 0.50);
+    position: relative;
+    color: rgba(255, 255, 255, 0.50);
+    top: 139px;
+    left: 238px;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    /* border-bottom: 2px solid red; */
+    
+}
+
+footer span{
+   position: relative;
+   top: 34px;
+}
+
+
+
+   
+@media screen and (max-width: 576px) {
+
+    .janina{
+        visibility: hidden;
+    }
+    .card1{
+        width: 393px;
+        height: 1135px;
+        
+        margin: auto;
+    }
+    .title{
+        text-align: center;
+        margin: auto;
+        left: -102px;
+        
+
+    }
+    .title p{
+        width: 390px;
+        text-wrap: wrap;
+        position: relative;
+        left: 105px;
+
+    }
+    .ma{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .pic{
+        /* width: 353px;
+        height: 588px; */
+        left: 15px;
+        top: 33px;
+    }
+    
+    .bu{
+        display: flex;
+        top: -828px;
+        left: 0px;
+    }
+    #free{
+        top: -528px;
+        left: 183px;
+    }
+    #vid{
+        top: -448px;
+        left: 0px;
+    }
+    #fi{
+        position: relative;
+        left: 10px;
+    }
+    .card2{
+        width: 338px;
+        height: 1398px;
+        
+       
+        /* border: 2px solid yellow; */
+        text-align: center;
+        position: relative;
+        flex-wrap: wrap;
+    }
+    .card2 h1{
+        width: 318px;
+        
+        
+    }
+    .card2 p{
+        width: 318px;
+        position: relative;
+        top: -12px;
+        left: -43px;
+
+    }
+    .para{
+        position: relative;
+        left: 50px;
+        top: 50px;
+    }
+    .pics{
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        position: relative;
+        top: 451px;
+        left: 35px;
+      }
+      
+     .card3{
+        text-align: center;
+        width: 393px;
+        /* border: 2px solid red; */
+        flex-direction: column;
+        border-radius: 24px;
+        height: 711px;
+     }
+     .tax p{
+       width: 350px;
+       text-overflow: wrap;
+    }
+    .tax{
+        position: relative;
+        left: 15px;
+    }
+    .tax h1{
+        position: relative;
+        left: -48px;
+    }
+    .tax button{
+        position: relative;
+        left: -39px;
+    }
+     .run{
+        position: relative;
+        left: 0px;
+        top: 0px;
+     }
+     .card4{
+        width: 393px;
+        height: 711px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        /* border: 2px solid red; */
+     }
+     
+     .tax1{
+        width: 383px;
+        height: 200px;
+        /* border: 2px solid green; */
+     }
+     #nai{
+        display: none;
+     }
+     #nai1{
+        display: none;
+     }
+
+     .picco{
+        width: 393px;
+        height: 400px;
+        /* border: 2px solid red; */
+     }
+     .piccoall{
+        width: 185px;
+        height: 185px;
+     }
+
+     .card5{
+        width: 350px;
+        height: 200px;
+       
+
+     }
+     .Bmit h1{
+       margin-bottom: 10px;
+     }
+     .card6{
+        width: 393px;
+        height: 800px;
+        flex-direction: column;
+        flex-wrap: wrap;
+     }
+     .Calculate{
+        width: 350px;
+        /* border: 2px solid red; */
+        position: relative;
+        left: 41px;
+        top: 0px;
+      }
+
+     
+
+     .Calculate input{
+        width: 150px;
+     }
+     #mal{
+        width: 300px;
+     }
+    .Calculate button{
+        position: relative;
+        top: 18px;
+        left: 0px;
+    }
+
+    .card7{
+        width: 393px;
+        height: 2000px;
+        /* border: 2px solid salmon; */
+    }
+    .bal{
+        width: 350px;
+        height: 120px;
+        /* border: 2px solid green; */
+        position: relative;
+        left: 20px;
+    }
+    .Team{
+        width: 350px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 1791px;
+        border-radius: 32px;
+    }
+    .card8{
+        width: 393px;
+        height: 600px;
+
+
+    }
+    .foot1{
+        width: 350px;
+        height: 172px;
+        /* border: 2px solid red; */
+        position: relative;
+        left: 20px;
+        top: 16px;
+    }
+    .foot{
+        flex-direction: column;
+        /* border: 2px solid green; */
+        width: 393px;
+        height: 600px;
+        position: relative;
+
+        left: 0px;
+        top: 0px;
+    }
+
+    .foot2{
+        position: relative;
+        top: 30px;
+        left: 18px;
+    }
+    .foot3{
+        position: relative;
+        top: -30px;
+        left: 18px;
+    }
+    footer{
+        width: 350px;
+        position: relative;
+        left: 23px;
+        top: -87px;
+    }
+        
+    .my{
+        width: 350px;
+        height: 1500px;
+    }
+    .my h1{
+        position: relative;
+        left: 118px;
+    }
+    .priceall{
+        flex-direction: column;
+        width: 393px;
+        height: 1300px;
+    }
+   
+    }
+   
+
+    
+  
